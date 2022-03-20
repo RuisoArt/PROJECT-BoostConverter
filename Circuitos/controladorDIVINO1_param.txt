@@ -1,0 +1,10 @@
+Fsw = 100K
+Ra = 1.67391K Ohm
+Rb = 500 Ohm
+Vref = 2.3 V
+Gain = 0.23
+kgain = 0.389271
+Ti = 654.437u s
+fz = 243.194 Hz
+fi = 94.6683 Hz
+Gmod = 0.23

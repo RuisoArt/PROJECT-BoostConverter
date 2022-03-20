@@ -1,0 +1,186 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Apr-25-2020 at 22:48:55}
+primitive 'C_CAPPC7343X430N_1N';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CAPPC7343X430N';
+    VALUE='1n';
+  end_body;
+end_primitive;
+primitive 'C_CAPC2012X135N_10U';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CAPC2012X135N';
+    VALUE='10u';
+  end_body;
+end_primitive;
+primitive 'C_CAPC1005X55N_100N';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CAPC1005X55N';
+    VALUE='100n';
+  end_body;
+end_primitive;
+primitive 'DIODE_SODFL3516X90N_DIODE';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE';
+    JEDEC_TYPE='SODFL3516X90N';
+    VALUE='DIODE';
+  end_body;
+end_primitive;
+primitive 'HEADER 2_386608802_HEADER 2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 2';
+    JEDEC_TYPE='386608802';
+    VALUE='HEADER 2';
+  end_body;
+end_primitive;
+primitive 'HEADER 3_JUMPER3_HEADER 3';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 3';
+    JEDEC_TYPE='jumper3';
+    VALUE='HEADER 3';
+  end_body;
+end_primitive;
+primitive 'HEADER 2_JUMPER2_HEADER 2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 2';
+    JEDEC_TYPE='jumper2';
+    VALUE='HEADER 2';
+  end_body;
+end_primitive;
+primitive 'IRFZ44_D2PAK_TO-263AB__IRFZ44';
+  pin
+    'S':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'G':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'D':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='IRFZ44';
+    JEDEC_TYPE='d2pak_to-263ab_';
+    VALUE='IRFZ44';
+  end_body;
+end_primitive;
+primitive 'R_RESC3216X60N_110';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RESC3216X60N';
+    VALUE='110';
+  end_body;
+end_primitive;
+primitive 'IR2110/DIP16_SOIC127P1032X265-1';
+  pin
+    'LO':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(*)';
+    'HO':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(*)';
+    'HIN':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(*)';
+    'SHDN':
+      PIN_NUMBER='(13)';
+      INPUT_LOAD='(*)';
+    'LIN':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(*)';
+    'VSS':
+      PIN_NUMBER='(15)';
+      PINUSE='POWER';
+    'COM':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'VB':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'VCC':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'VDD':
+      PIN_NUMBER='(11)';
+      PINUSE='POWER';
+    'VS':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='IR2110/DIP16';
+    JEDEC_TYPE='SOIC127P1032X265-16N';
+    VALUE='IR2110/DIP16';
+  end_body;
+end_primitive;
+END.

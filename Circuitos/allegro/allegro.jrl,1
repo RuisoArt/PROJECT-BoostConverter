@@ -1,0 +1,14 @@
+\t (00:00:50) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:50)     Journal start - Fri Jun 12 11:23:55 2020
+\t (00:00:50)         Host=ONRUISO-LENOVOL User=ruiso Pid=19540 CPUs=8
+\t (00:00:50) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:50) 
+   (00:00:50) Loading axlcore.cxt 
+\t (00:00:50) Opening existing design...
+\d (00:00:51) Design opened: D:/UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA/PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd
+\i (00:00:51) trapsize 7074
+\i (00:00:51) trapsize 7235
+\i (00:00:51) trapsize 7235
+\i (00:00:51) placementedit 
+\i (00:01:28) exit 
+\t (00:01:28)     Journal end - Fri Jun 12 11:24:33 2020

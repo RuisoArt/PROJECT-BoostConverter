@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=T59EE157M030C0075
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Chip Polarised
+PinCount=2
+Version=1.1
+Released=2019-08-15 04:14:02
+Downloaded=2020-04-26 02:44:17
+3D=Y

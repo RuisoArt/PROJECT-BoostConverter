@@ -1,0 +1,139 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd             |
+|                                                    Sat Apr 25 22:49:13 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 C1.1           C2.1           C3.2           
+                                 C5.2           J3.1           J5.3           
+                                 J6.2           J7.2           M1.3           
+                                 U1.2           U1.13          U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17799       pins ADDED TO this new net
+                                 D1.2           J7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17807       pins ADDED TO this new net
+                                 C2.2           D1.1           J2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17819       pins ADDED TO this new net
+                                 J2.1           M1.2           M2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17849       pins ADDED TO this new net
+                                 C1.2           C4.2           J3.2           
+                                 M2.3           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17919       pins ADDED TO this new net
+                                 M2.1           R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17959       pins ADDED TO this new net
+                                 M1.1           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18039       pins ADDED TO this new net
+                                 R2.1           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18043       pins ADDED TO this new net
+                                 R1.1           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18071       pins ADDED TO this new net
+                                 C3.1           C5.1           D3.2           
+                                 J6.1           U1.3           U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18141       pins ADDED TO this new net
+                                 J5.1           U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18171       pins ADDED TO this new net
+                                 J5.2           U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18223       pins ADDED TO this new net
+                                 C4.1           D3.1           U1.7           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd             |
+|                                                    Sat Apr 25 22:49:13 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C_CAPC1005X55N_100N
+ C_CAPC2012X135N_10U
+ C_CAPPC7343X430N_1N
+ DIODE_SODFL3516X90N_DIODE
+ HEADER 2_386608802_HEADER 2
+ HEADER 2_JUMPER2_HEADER 2
+ HEADER 3_JUMPER3_HEADER 3
+ IR2110/DIP16_SOIC127P1032X265-1
+ IRFZ44_D2PAK_TO-263AB__IRFZ44
+ R_RESC3216X60N_110
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd             |
+|                                                    Sat Apr 25 22:49:13 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAPPC7343X430N_1N   
+ C2                  C_CAPPC7343X430N_1N   
+ C3                  C_CAPC2012X135N_10U   
+ C4                  C_CAPC1005X55N_100N   
+ C5                  C_CAPC2012X135N_10U   
+ D1                  DIODE_SODFL3516X90N_DIODE 
+ D3                  DIODE_SODFL3516X90N_DIODE 
+ J2                  HEADER 2_386608802_HEADER 2 
+ J3                  HEADER 2_386608802_HEADER 2 
+ J5                  HEADER 3_JUMPER3_HEADER 3 
+ J6                  HEADER 2_JUMPER2_HEADER 2 
+ J7                  HEADER 2_386608802_HEADER 2 
+ M1                  IRFZ44_D2PAK_TO-263AB__IRFZ44 
+ M2                  IRFZ44_D2PAK_TO-263AB__IRFZ44 
+ R1                  R_RESC3216X60N_110    
+ R2                  R_RESC3216X60N_110    
+ U1                  IR2110/DIP16_SOIC127P1032X265-1 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd             |
+|                                                    Sat Apr 25 22:49:13 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J5.3                           PRIM_FILE      .\pstchip.dat
+ J6.2                           PRIM_FILE      .\pstchip.dat
+ J7.2                           PRIM_FILE      .\pstchip.dat
+ M1.3                           PRIM_FILE      .\pstchip.dat
+ M2.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ U1.15                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      46                                        |
+|       Comp definitions added:      10                                        |
+|       Components added      :      17                                        |
+|       Slot property added   :      17                                        |
+|                                                                              |
+|   Total ECO changes reported:      90                                        |
+|------------------------------------------------------------------------------|

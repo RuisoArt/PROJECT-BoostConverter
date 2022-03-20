@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "T59EE157M030C0075"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-15-04:14:02)
+    (mountForm default
+        (footprintRef "CAPPC7343X430N")
+        (spec "System")
+    )
+)

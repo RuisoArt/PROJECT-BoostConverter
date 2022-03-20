@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IRFZ44VZSPBF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Infineon", "IRFZ44VZSPBF" (!) = "", "D2PAK(TO-263AB)", "Other", "942-IRFZ44VZSPBF", "https://www.mouser.com/Search/Refine.aspx?Keyword=942-IRFZ44VZSPBF", "Infineon IRFZ44VZSPBF N-channel MOSFET, 57 A, 60 V HEXFET, 3-Pin D2PAK", "https://componentsearchengine.com/Datasheets/1/IRFZ44VZSPBF.pdf"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'T59EE157M030C0075'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "T59EE157M030C0075" (!) = "", "CAPPC7343X430N", "Capacitor Chip Polarised", "74-T59EE157M030C0075", "https://www.mouser.com/Search/Refine.aspx?Keyword=74-T59EE157M030C0075", "VISHAY - T59EE157M030C0075 - CAP, 150F, 30V, 20%", "https://componentsearchengine.com/Datasheets/1/T59EE157M030C0075.pdf", "4.3 mm"
+END_PART
+
+END.

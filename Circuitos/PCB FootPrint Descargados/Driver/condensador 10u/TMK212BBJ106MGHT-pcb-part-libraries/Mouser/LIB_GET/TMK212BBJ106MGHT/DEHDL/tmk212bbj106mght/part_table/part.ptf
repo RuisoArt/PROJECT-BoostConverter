@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TMK212BBJ106MGHT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TAIYO YUDEN", "TMK212BBJ106MGHT" (!) = "", "CAPC2012X135N", "Capacitor Chip Non-polarised", "963-TMK212BBJ106MGHT", "https://www.mouser.com/Search/Refine.aspx?Keyword=963-TMK212BBJ106MGHT", "Multilayer Ceramic Capacitors MLCC - SMD/SMT CAP ,MLCC ,0805,25V ,X5R,10uF 20% ,T&R", "https://componentsearchengine.com/Datasheets/1/TMK212BBJ106MGHT.pdf", "1.35 mm"
+END_PART
+
+END.

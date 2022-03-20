@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_792038"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-11-21:59:31)
+    (utime 2018-11-12-06:29:33)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "38660-8802")
+)
+
+
+(pinAssign "ECS_792038"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-11-21:59:31)
+    (utime 2018-11-12-06:29:33)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_792038")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "38660-8802")
+)
+
+
+(part "38660-8802"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-11-21:59:31)
+    (utime 2018-11-12-06:29:33)
+    (packageRef "38660-8802")
+    (pinAssignRef "ECS_792038")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "MOLEX - 38660-8802 - TERMINAL BLOCK, BARRIER, 2 POSITION, 18-8AWG")
+    (property "Mouser_Part_Number" "538-38660-8802")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=538-38660-8802")
+    (property "Manufacturer_Name" "Molex")
+    (property "Manufacturer_Part_Number" "38660-8802")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/38660-8802.pdf")
+    (property "compAreaTopHeight" 22.9)
+)
+
+

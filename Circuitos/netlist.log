@@ -1,0 +1,13 @@
+{ Using PSTWRITER 17.2.0 d001Apr-25-2020 at 23:35:33 }
+
+#1 WARNING(ORCAP-36006): Part Name "IR2110/DIP16_SOIC127P1032X265-16N_IR2110/DIP16" is renamed to "IR2110/DIP16_SOIC127P1032X265-1".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\Universidad Santo Tomas seccional Tunja\PROYECTOS\PROYECTO Convertidores/pstchip.dat
+
+Loading... D:\Universidad Santo Tomas seccional Tunja\PROYECTOS\PROYECTO Convertidores/pstchip.dat
+
+Loading... D:\Universidad Santo Tomas seccional Tunja\PROYECTOS\PROYECTO Convertidores/pstxprt.dat
+
+Loading... D:\Universidad Santo Tomas seccional Tunja\PROYECTOS\PROYECTO Convertidores/pstxnet.dat
+packaging the design view...

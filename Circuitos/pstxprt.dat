@@ -1,0 +1,180 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-25-2020 at 23:35:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='FUENTE BOOST';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPPC7343X430N_1N':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17937@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17937@analog.\c.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17937@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPPC7343X430N_1N':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17921@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17921@analog.\c.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17921@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPC2012X135N_10U':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18293@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18293@analog.\c.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18293@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPC1005X55N_100N':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18317@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18317@analog.\c.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18317@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_CAPC2012X135N_10U':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18349@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18349@analog.\c.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18349@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SODFL3516X90N_DIODE':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17781@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17781@discrete.\diode.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17781@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_SODFL3516X90N_DIODE':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS19273@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins19273@discrete.\diode.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins19273@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 2_386608802_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17765@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17765@connector.\header 2.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17765@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 2_386608802_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17883@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17883@connector.\header 2.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17883@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 3_JUMPER3_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18151@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18151@connector.\header 3.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18151@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 2_JUMPER2_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18045@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18045@connector.\header 2.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18045@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 2_386608802_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17867@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17867@connector.\header 2.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17867@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'IRFZ44_D2PAK_TO-263AB__IRFZ44':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17899@PWRMOS.IRFZ44.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17899@pwrmos.\irfz44.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17899@pwrmos.\irfz44.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M2 'IRFZ44_D2PAK_TO-263AB__IRFZ44':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS17829@PWRMOS.IRFZ44.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins17829@pwrmos.\irfz44.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins17829@pwrmos.\irfz44.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RESC3216X60N_110':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18021@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18021@analog.\r.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18021@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RESC3216X60N_110':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18005@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18005@analog.\r.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18005@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IR2110/DIP16_SOIC127P1032X265-1':;
+
+SECTION_NUMBER 1
+ '@FUENTE BOOST.SCHEMATIC1(SCH_1):INS18105@MISC2.IR2110/DIP16.NORMAL(CHIPS)':
+ C_PATH='@\fuente boost\.schematic1(sch_1):ins18105@misc2.\ir2110/dip16.normal\(chips)',
+ P_PATH='@\fuente boost\.schematic1(sch_1):page_ins18105@misc2.\ir2110/dip16.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

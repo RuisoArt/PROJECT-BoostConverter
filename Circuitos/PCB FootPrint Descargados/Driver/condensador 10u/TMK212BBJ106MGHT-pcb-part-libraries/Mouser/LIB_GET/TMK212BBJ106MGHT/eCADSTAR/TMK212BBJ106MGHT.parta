@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_549042"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-19-02:55:55)
+    (utime 2020-02-19-07:05:07)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "TMK212BBJ106MGHT")
+)
+
+
+(pinAssign "ECS_549042"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-19-02:55:55)
+    (utime 2020-02-19-07:05:07)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_549042")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "TMK212BBJ106MGHT")
+)
+
+
+(part "TMK212BBJ106MGHT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-19-02:55:55)
+    (utime 2020-02-19-07:05:07)
+    (packageRef "TMK212BBJ106MGHT")
+    (pinAssignRef "ECS_549042")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT CAP ,MLCC ,0805,25V ,X5R,10uF 20% ,T&R")
+    (property "Mouser_Part_Number" "963-TMK212BBJ106MGHT")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=963-TMK212BBJ106MGHT")
+    (property "Manufacturer_Name" "TAIYO YUDEN")
+    (property "Manufacturer_Part_Number" "TMK212BBJ106MGHT")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/TMK212BBJ106MGHT.pdf")
+    (property "compAreaTopHeight" 1.35)
+)
+
+

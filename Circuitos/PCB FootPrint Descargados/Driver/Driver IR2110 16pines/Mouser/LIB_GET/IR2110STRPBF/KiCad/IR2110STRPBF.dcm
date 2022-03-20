@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IR2110STRPBF
+D Infineon IR2110STRPBF Dual High and Low Side MOSFET Power Driver, 2.5A 16-Pin, SOIC
+K
+F https://componentsearchengine.com/Datasheets/1/IR2110STRPBF.pdf
+$ENDCMP
+#
+#End Doc Library

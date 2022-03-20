@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=RB070MM-30TR
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.1
+Released=2018-12-13 12:00:02
+Downloaded=2020-04-26 01:40:58
+3D=Y

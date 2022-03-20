@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IR2110STRPBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "IR2110STRPBF" (!) = "", "SOIC127P1032X265-16N", "Small Outline Packages", "942-IR2110STRPBF", "https://www.mouser.com/Search/Refine.aspx?Keyword=942-IR2110STRPBF", "Infineon IR2110STRPBF Dual High and Low Side MOSFET Power Driver, 2.5A 16-Pin, SOIC", "https://componentsearchengine.com/Datasheets/1/IR2110STRPBF.pdf", "2.65 mm"
+END_PART
+
+END.

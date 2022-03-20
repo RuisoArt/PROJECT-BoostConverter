@@ -1,0 +1,15 @@
+.IRFZ44VZSPBF :1 ;Infineon IRFZ44VZSPBF N-channel MOSFET, 57 A, 60 V HEXFET, 3-Pin D2PAK
+D2PAK_TO-263AB_
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN IRFZ44VZSPBF
+~!Mouser Part Number (942-IRFZ44VZSPBF)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=942-IRFZ44VZSPBF)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IRFZ44VZSPBF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/IRFZ44VZSPBF.pdf)
+~!Height (-)
+IRFZ44VZSPBF
+1.1!U 2.1!U 3.1!U 

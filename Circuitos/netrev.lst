@@ -1,0 +1,102 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : FUENTE BOOST.brd                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Apr 25 23:35:35 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\Universidad Santo Tomas seccional Tunja\PROYECTOS\PROYECTO Convertidores'
+Design Directory:            'D:/UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA/PROYECTOS/PROYECTO CONVERTIDORES/allegro'
+Old design name:             'D:/UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA/PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd'
+New design name:             'D:/UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA/PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd'
+
+CmdLine: netrev.exe -y 1 -n -i D:\Universidad Santo Tomas seccional Tunja\PROYECTOS\PROYECTO Convertidores D:\UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA\PROYECTOS\PROYECTO CONVERTIDORES\allegro\FUENTE BOOST.brd D:\UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA\PROYECTOS\PROYECTO CONVERTIDORES\allegro\FUENTE BOOST.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/Universidad Santo Tomas seccional Tunja/PROYECTOS/PROYECTO Convertidores/pstchip.dat 
+   Finished reading D:/Universidad Santo Tomas seccional Tunja/PROYECTOS/PROYECTO Convertidores/pstchip.dat (00:00:00.03)
+Starting to read D:/Universidad Santo Tomas seccional Tunja/PROYECTOS/PROYECTO Convertidores/pstxprt.dat 
+   Finished reading D:/Universidad Santo Tomas seccional Tunja/PROYECTOS/PROYECTO Convertidores/pstxprt.dat (00:00:00.00)
+Starting to read D:/Universidad Santo Tomas seccional Tunja/PROYECTOS/PROYECTO Convertidores/pstxnet.dat 
+   Finished reading D:/Universidad Santo Tomas seccional Tunja/PROYECTOS/PROYECTO Convertidores/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'SOIC127P1032X265-16N' for device 'IR2110/DIP16_SOIC127P1032X265-1' has extra pin '4'.
+
+ERROR(SPMHNI-196): Symbol 'SOIC127P1032X265-16N' for device 'IR2110/DIP16_SOIC127P1032X265-1' has extra pin '5'.
+
+ERROR(SPMHNI-196): Symbol 'SOIC127P1032X265-16N' for device 'IR2110/DIP16_SOIC127P1032X265-1' has extra pin '9'.
+
+ERROR(SPMHNI-196): Symbol 'SOIC127P1032X265-16N' for device 'IR2110/DIP16_SOIC127P1032X265-1' has extra pin '10'.
+
+ERROR(SPMHNI-196): Symbol 'SOIC127P1032X265-16N' for device 'IR2110/DIP16_SOIC127P1032X265-1' has extra pin '16'.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 25 23:35:35 2020
+   DESIGN NAME : 'FUENTE BOOST'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  1 warnings detected
+
+cpu time      0:00:39
+elapsed time  0:00:00
+

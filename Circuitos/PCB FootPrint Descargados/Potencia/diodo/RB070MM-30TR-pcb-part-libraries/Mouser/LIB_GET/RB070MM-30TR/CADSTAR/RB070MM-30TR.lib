@@ -1,0 +1,16 @@
+.RB070MM-30TR :1 ;Schottky Diode 30V 1.5A SOD-123FL
+SODFL3516X90N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN RB070MM-30TR
+~!Mouser Part Number (755-RB070MM-30TR)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=755-RB070MM-30TR)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (RB070MM-30TR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/RB070MM-30TR.pdf)
+~!Height (0.9mm)
+~!3D_Model (RB070MM-30TR)
+RB070MM-30TR
+1.1!U 2.1!U 

@@ -1,0 +1,16 @@
+.CRCW120620R0FKEAC :1 ;Standard Thick Film Chip Resistors value 20R0 ohm.
+RESC3216X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW120620R0FKEAC
+~!Mouser Part Number (71-CRCW120620R0FKEAC)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW120620R0FKEAC)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW120620R0FKEAC)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/CRCW120620R0FKEAC.pdf)
+~!Height (0.6mm)
+~!3D_Model (CRCW120620R0FKEAC)
+CRCW120620R0FKEAC
+1.1!U 2.1!U 

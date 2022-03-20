@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=C1005X5R1E105K050BE
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.2
+Released=2019-04-19 16:21:01
+Downloaded=2020-04-26 03:43:09
+3D=Y

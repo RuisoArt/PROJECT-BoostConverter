@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RB070MM-30TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-21-06:14:13)
+    (mountForm default
+        (footprintRef "SODFL3516X90N")
+        (spec "System")
+    )
+)

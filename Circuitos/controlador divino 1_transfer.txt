@@ -1,0 +1,7 @@
+C:\Users\ruiso\Desktop\PCB\controlador divino 1.psimsch
+C:\Users\ruiso\Desktop\PCB\controlador divino 1_param.txt
+Loop type = Single
+Outer loop = voltage divider + PI
+Inner loop = No
+Export option = sdomain
+Get = Regulator and parameters

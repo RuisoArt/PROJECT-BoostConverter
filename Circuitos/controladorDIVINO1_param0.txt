@@ -1,0 +1,7 @@
+fsw=100K
+Ra=1.67391KOhm
+Rb=500Ohm
+Vref=1.3V
+Kgain=0.389271
+Ti=654.437us
+Gmod=0.23

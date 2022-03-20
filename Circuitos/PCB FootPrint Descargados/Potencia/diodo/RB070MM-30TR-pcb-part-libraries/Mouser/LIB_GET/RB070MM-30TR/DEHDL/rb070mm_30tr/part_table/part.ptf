@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RB070MM_30TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "RB070MM-30TR" (!) = "", "SODFL3516X90N", "Small Outline Diode Flat Lead", "755-RB070MM-30TR", "https://www.mouser.com/Search/Refine.aspx?Keyword=755-RB070MM-30TR", "Schottky Diode 30V 1.5A SOD-123FL", "https://componentsearchengine.com/Datasheets/1/RB070MM-30TR.pdf", "0.9 mm"
+END_PART
+
+END.

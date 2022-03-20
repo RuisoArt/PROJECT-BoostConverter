@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW120620R0FKEAC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW120620R0FKEAC" (!) = "", "RESC3216X60N", "Resistor Chip", "71-CRCW120620R0FKEAC", "https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW120620R0FKEAC", "Standard Thick Film Chip Resistors value 20R0 ohm.", "https://componentsearchengine.com/Datasheets/1/CRCW120620R0FKEAC.pdf", "0.6 mm"
+END_PART
+
+END.

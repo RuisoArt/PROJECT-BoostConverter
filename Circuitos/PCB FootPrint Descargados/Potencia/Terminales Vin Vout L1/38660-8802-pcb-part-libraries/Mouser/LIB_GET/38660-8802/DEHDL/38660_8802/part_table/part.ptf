@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '38660_8802'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "38660-8802" (!) = "", "386608802", "Other", "538-38660-8802", "https://www.mouser.com/Search/Refine.aspx?Keyword=538-38660-8802", "MOLEX - 38660-8802 - TERMINAL BLOCK, BARRIER, 2 POSITION, 18-8AWG", "https://componentsearchengine.com/Datasheets/1/38660-8802.pdf", "22.9 mm"
+END_PART
+
+END.

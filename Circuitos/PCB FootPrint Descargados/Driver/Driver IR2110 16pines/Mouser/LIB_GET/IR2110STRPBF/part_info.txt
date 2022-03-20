@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IR2110STRPBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2019-09-09 09:15:21
+Downloaded=2020-04-26 04:12:05
+3D=Y

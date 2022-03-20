@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IRFZ44VZSPBF
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=3
+Version=1.5
+Released=2018-08-09 09:09:38
+Downloaded=2020-04-26 00:40:48
+3D=N

@@ -1,0 +1,176 @@
+\t (00:03:50) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:03:50)     Journal start - Sun Apr 12 23:31:04 2020
+\t (00:03:50)         Host=ONRUISO-LENOVOL User=ruiso Pid=16360 CPUs=8
+\t (00:03:50) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:03:50) 
+\d (00:03:50) Design opened: D:/Universidad Santo Tomas seccional Tunja/MATERIAS/CONVERTIDORES DE ENERGIA/Biblioteca Componentes/Jack/LIB_GET/694102303002/Allegro/694102303002.dra
+\i (00:03:51) generaledit 
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 4.0895 -1.6297
+\i (00:03:54) trapsize 14298
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 4.0896 -1.6296
+\i (00:03:54) trapsize 7149
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 4.0896 -1.6296
+\i (00:03:54) trapsize 3575
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 4.0896 -1.6296
+\i (00:03:54) trapsize 1787
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 4.0896 -1.6296
+\i (00:03:54) trapsize 894
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 4.0896 -1.6295
+\i (00:03:54) trapsize 447
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 4.0717 -1.6205
+\i (00:03:54) trapsize 894
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 4.0717 -1.6206
+\i (00:03:54) trapsize 1787
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 4.0718 -1.6205
+\i (00:03:54) trapsize 3574
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 4.0718 -1.6206
+\i (00:03:54) trapsize 7149
+\i (00:03:55) zoom in 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom in 3.4998 -1.4775
+\i (00:03:55) trapsize 3574
+\i (00:04:03) zoom out 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out 9.9339 -3.8366
+\i (00:04:03) trapsize 7149
+\i (00:04:03) zoom out 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out 5.9304 -3.5507
+\i (00:04:03) trapsize 14298
+\i (00:04:03) zoom out 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out -2.0764 -2.6929
+\i (00:04:03) trapsize 28596
+\i (00:04:04) zoom in 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom in -25.6503 -21.0750
+\i (00:04:04) trapsize 14298
+\i (00:04:04) zoom in 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom in -34.2291 -18.5013
+\i (00:04:04) trapsize 7149
+\i (00:04:04) zoom in 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom in -34.2291 -18.2154
+\i (00:04:04) trapsize 3575
+\i (00:04:04) zoom in 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom in -33.5857 -17.2145
+\i (00:04:04) trapsize 1787
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -10.9948 -5.2399
+\i (00:04:04) trapsize 3575
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -10.6374 -5.0969
+\i (00:04:04) trapsize 7149
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in 10.8097 -2.2372
+\i (00:04:05) trapsize 3575
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in 9.9518 -1.7367
+\i (00:04:05) trapsize 1787
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in -6.1334 1.6234
+\i (00:04:06) trapsize 894
+\e (00:06:54) Command not found: xdehilite
+\i (00:06:54) xname_flush 
+\i (00:06:54) done 
+\i (00:06:54) generaledit 
+\e (00:06:57) Command not found: xhilite
+\i (00:06:57) xname_flush 
+\i (00:06:57) done 
+\i (00:06:57) generaledit 
+\e (00:07:01) Command not found: xdehilite
+\i (00:07:01) xname_flush 
+\i (00:07:01) done 
+\i (00:07:01) generaledit 
+\e (00:07:10) Command not found: xdehilite
+\i (00:07:10) xname_flush 
+\i (00:07:10) done 
+\i (00:07:10) generaledit 
+\e (00:07:10) Command not found: xhilite
+\i (00:07:10) xname_flush 
+\i (00:07:10) done 
+\i (00:07:10) generaledit 
+\e (00:07:18) Command not found: xhilite
+\i (00:07:18) xname_flush 
+\i (00:07:18) done 
+\i (00:07:18) generaledit 
+\e (00:07:20) Command not found: xhilite
+\i (00:07:20) xname_flush 
+\i (00:07:20) done 
+\i (00:07:20) generaledit 
+\e (00:07:21) Command not found: xhilite
+\i (00:07:21) xname_flush 
+\i (00:07:21) done 
+\i (00:07:21) generaledit 
+\e (00:07:24) Command not found: xdehilite
+\i (00:07:24) xname_flush 
+\i (00:07:24) done 
+\i (00:07:24) generaledit 
+\e (00:07:32) Command not found: xhilite
+\i (00:07:32) xname_flush 
+\i (00:07:32) done 
+\i (00:07:32) generaledit 
+\e (00:07:33) Command not found: xdehilite
+\i (00:07:33) xname_flush 
+\i (00:07:33) done 
+\i (00:07:33) generaledit 
+\e (00:07:34) Command not found: xhilite
+\i (00:07:34) xname_flush 
+\i (00:07:34) done 
+\i (00:07:34) generaledit 
+\e (00:07:36) Command not found: xdehilite
+\i (00:07:36) xname_flush 
+\i (00:07:36) done 
+\i (00:07:36) generaledit 
+\e (00:07:38) Command not found: xhilite
+\i (00:07:38) xname_flush 
+\i (00:07:38) done 
+\i (00:07:38) generaledit 
+\e (00:08:01) Command not found: xdehilite
+\i (00:08:01) xname_flush 
+\i (00:08:01) done 
+\i (00:08:01) generaledit 
+\e (00:08:01) Command not found: xhilite
+\i (00:08:01) xname_flush 
+\i (00:08:01) done 
+\i (00:08:01) generaledit 
+\i (00:08:42) drag_start grid -5.0253 -0.5570
+\i (00:08:43) drag_stop -2.4159 -3.5239
+\i (00:08:44) pick grid -4.5249 0.0506
+\t (00:08:44) last pick:  -5.0800 0.0000
+\i (00:11:44) open 
+\e (00:11:44) Do you want to save the changes you made to 694102303002.dra?
+\i (00:11:46) fillin no 
+\i (00:12:39) fillin "C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols\jumper2.dra"
+\i (00:12:39) cd "C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols"
+\t (00:12:39) Opening existing design...
+\i (00:12:39) trapsize 2
+\i (00:12:40) trapsize 4
+\t (00:12:40)     Journal end - Sun Apr 12 23:39:53 2020

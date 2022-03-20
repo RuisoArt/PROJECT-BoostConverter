@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '694102303002'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "694102303002" (!) = "", "694102303002", "Other", "710-694102303002", "https://www.mouser.com/Search/Refine.aspx?Keyword=710-694102303002", "Wurth Elektronik Through Hole DC Power Socket WR-DC Series, 3.5mm Right Angle 2A", "https://componentsearchengine.com/Datasheets/1/694102303002.pdf", "7.6 mm"
+END_PART
+
+END.

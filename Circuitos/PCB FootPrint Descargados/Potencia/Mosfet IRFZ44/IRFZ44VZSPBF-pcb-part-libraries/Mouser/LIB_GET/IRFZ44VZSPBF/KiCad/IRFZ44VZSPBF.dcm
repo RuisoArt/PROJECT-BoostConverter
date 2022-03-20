@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRFZ44VZSPBF
+D Infineon IRFZ44VZSPBF N-channel MOSFET, 57 A, 60 V HEXFET, 3-Pin D2PAK
+K
+F https://componentsearchengine.com/Datasheets/1/IRFZ44VZSPBF.pdf
+$ENDCMP
+#
+#End Doc Library

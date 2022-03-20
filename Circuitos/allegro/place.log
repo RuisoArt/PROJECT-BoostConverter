@@ -1,0 +1,64 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLACEMENT LOG                                                    )
+(                                                                     )
+(    Drawing          : FUENTE BOOST.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sun Apr 26 00:05:28 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Autoplace D:/UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA/PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd 
+ Save as D:/UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA/PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd 
+
+ Will search while getting acceptable improvement
+ Will not scale complete graph edges
+ Start time Sun Apr 26 00:05:28 2020
+
+
+ 
+ 	 	 Placement Task Version 1.00 
+ 
+ 
+ Algorithm  : IC
+ Place within: board
+ Map grid points to: library origin
+ Place leftovers on bottom: YES
+ Allow component overlap: NO
+ Soft boundary: NO
+ Cluster: NO
+ No Rat: NO
+ Remove TAG: NO
+ Components at rotation of 0 degrees are weighted 50
+
+ Components at rotation of 90 degrees are weighted 0
+
+ Components at rotation of 180 degrees are weighted 0
+
+ Components at rotation of 270 degrees are weighted 0
+
+ Board direction of north is weighted 50
+
+ Board direction of east is weighted 50
+
+ Board direction of south is weighted 50
+
+ Board direction of west is weighted 50
+
+ Component mirroring weight is 50
+
+ Component straightness weight is 50
+
+ Warning: unplaced components are not PLACE TAGGED.
+
+ Placement Keepin
+
+  line seg 	(318.3000,147.3000) (467.7000,147.3000)
+  line seg 	(467.7000,147.3000) (467.7000,246.7000)
+  line seg 	(467.7000,246.7000) (318.3000,246.7000)
+  line seg 	(318.3000,246.7000) (318.3000,147.3000)
+
+ Error: No Placement Grid was found
+ERROR(SPMHGE-458): Error see the message(s) above.

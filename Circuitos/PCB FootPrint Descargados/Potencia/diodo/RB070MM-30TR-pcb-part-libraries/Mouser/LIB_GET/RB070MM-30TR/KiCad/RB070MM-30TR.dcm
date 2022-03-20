@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RB070MM-30TR
+D Schottky Diode 30V 1.5A SOD-123FL
+K
+F https://componentsearchengine.com/Datasheets/1/RB070MM-30TR.pdf
+$ENDCMP
+#
+#End Doc Library

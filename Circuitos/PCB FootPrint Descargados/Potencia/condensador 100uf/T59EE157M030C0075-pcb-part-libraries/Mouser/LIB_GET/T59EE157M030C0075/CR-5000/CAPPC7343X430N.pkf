@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CAPPC7343X430N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CAPPC7343X430N")
+        (spec "default")
+    )
+)

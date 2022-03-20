@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW120620R0FKEAC
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.8
+Released=2018-09-27 14:20:35
+Downloaded=2020-04-26 03:14:05
+3D=Y

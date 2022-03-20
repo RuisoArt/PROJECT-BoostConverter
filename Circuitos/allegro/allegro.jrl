@@ -1,0 +1,195 @@
+\t (00:00:41) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:41)     Journal start - Fri Jun 12 11:36:38 2020
+\t (00:00:41)         Host=ONRUISO-LENOVOL User=ruiso Pid=4284 CPUs=8
+\t (00:00:41) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:41) 
+   (00:00:41) Loading axlcore.cxt 
+\t (00:00:41) Opening existing design...
+\d (00:00:44) Design opened: D:/UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA/PROYECTOS/PROYECTO CONVERTIDORES/allegro/FUENTE BOOST.brd
+\i (00:00:45) trapsize 7074
+\i (00:00:45) trapsize 7235
+\i (00:00:45) trapsize 7235
+\i (00:00:45) placementedit 
+\i (00:02:11) done 
+\i (00:02:11) place manual 
+\i (00:02:11) FORM plc_manual placement_list 
+\i (00:02:11) FORM plc_manual categories Components by refdes 
+\i (00:02:11) trapsize 7235
+\i (00:15:24) done 
+\i (00:15:24) place manual 
+\i (00:15:24) FORM plc_manual placement_list 
+\i (00:15:24) FORM plc_manual categories Components by refdes 
+\i (00:15:24) trapsize 7235
+\i (00:15:59) setwindow form.plc_manual
+\i (00:15:59) FORM plc_manual advanced_settings  
+\i (00:16:03) FORM plc_manual browse  
+\i (00:16:05) fillin "menu_cancel"
+\i (00:16:07) FORM plc_manual library YES 
+\i (00:16:08) FORM plc_manual library NO 
+\i (00:16:09) FORM plc_manual place_never YES 
+\i (00:16:10) FORM plc_manual place_always YES 
+\i (00:16:58) FORM plc_manual library YES 
+\i (00:17:35) FORM plc_manual placement_list  
+\i (00:18:39) FORM plc_manual categories Package symbols 
+\i (00:18:55) FORM plc_manual alpha_filter * 
+\i (00:19:16) FORM plc_manual alpha_filter *CAPPC7343X430N 
+\i (00:19:52) FORM plc_manual alpha_filter  
+\i (00:21:39) FORM plc_manual alpha_filter *CAPPC7343X430N* 
+\i (00:22:00) FORM plc_manual tree 'MULTISEL YES' CAPPC7343X430N 'Package symbols' 
+\i (00:22:00) FORM plc_manual tree  CAPPC7343X430N 'Package symbols' 
+\i (00:22:01) setwindow pcb
+\i (00:22:01) zoom in 1 
+\i (00:22:01) setwindow pcb
+\i (00:22:01) zoom in 377.1185 169.3776
+\i (00:22:01) trapsize 3618
+\i (00:22:01) zoom in 1 
+\i (00:22:01) setwindow pcb
+\i (00:22:01) zoom in 377.1186 169.3776
+\i (00:22:01) trapsize 1809
+\i (00:22:02) zoom in 1 
+\i (00:22:02) setwindow pcb
+\i (00:22:02) zoom in 370.7154 174.5870
+\i (00:22:02) trapsize 904
+\i (00:22:16) setwindow form.plc_manual
+\i (00:22:16) FORM plc_manual tree 'MULTISEL NO' CAPPC7343X430N 'Package symbols' 
+\i (00:22:30) FORM plc_manual tree 'MULTISEL YES' CAPPC7343X430N 'Package symbols' 
+\i (00:22:41) setwindow pcb
+\i (00:22:41) zoom out 1 
+\i (00:22:41) setwindow pcb
+\i (00:22:41) zoom out 368.4001 175.4734
+\i (00:22:41) trapsize 1809
+\i (00:22:41) zoom out 1 
+\i (00:22:41) setwindow pcb
+\i (00:22:41) zoom out 368.4001 175.4733
+\i (00:22:41) trapsize 3618
+\i (00:22:42) zoom out 1 
+\i (00:22:42) setwindow pcb
+\i (00:22:42) zoom out 370.9325 169.2510
+\i (00:22:42) trapsize 7235
+\i (00:22:43) zoom out 1 
+\i (00:22:43) setwindow pcb
+\i (00:22:43) zoom out 390.3231 169.2510
+\i (00:22:43) trapsize 14471
+\i (00:22:43) zoom out 1 
+\i (00:22:43) setwindow pcb
+\i (00:22:43) zoom out 276.9815 169.8299
+\i (00:22:43) trapsize 28941
+\i (00:22:44) zoom in 1 
+\i (00:22:44) setwindow pcb
+\i (00:22:44) zoom in 382.0215 171.9097
+\i (00:22:44) trapsize 14471
+\i (00:22:44) zoom in 1 
+\i (00:22:44) setwindow pcb
+\i (00:22:44) zoom in 280.1661 171.9097
+\i (00:22:44) trapsize 7235
+\i (00:22:44) zoom in 1 
+\i (00:22:44) setwindow pcb
+\i (00:22:44) zoom in 280.1662 171.9097
+\i (00:22:44) trapsize 3618
+\i (00:22:45) zoom in 1 
+\i (00:22:45) setwindow pcb
+\i (00:22:45) zoom in 273.7268 176.2509
+\i (00:22:45) trapsize 1809
+\i (00:22:45) zoom in 1 
+\i (00:22:45) setwindow pcb
+\i (00:22:45) zoom in 273.7269 176.2509
+\i (00:22:45) trapsize 904
+\i (00:22:46) zoom in 1 
+\i (00:22:46) setwindow pcb
+\i (00:22:46) zoom in 273.7269 176.2510
+\i (00:22:46) trapsize 452
+\i (00:22:46) zoom out 1 
+\i (00:22:46) setwindow pcb
+\i (00:22:46) zoom out 273.4013 176.5676
+\i (00:22:46) trapsize 904
+\i (00:23:05) setwindow form.plc_manual
+\i (00:23:05) FORM plc_manual tree 'MULTISEL NO' CAPPC7343X430N 'Package symbols' 
+\i (00:23:06) setwindow pcb
+\i (00:23:06) zoom out 1 
+\i (00:23:06) setwindow pcb
+\i (00:23:06) zoom out 275.8070 175.9526
+\i (00:23:06) trapsize 1809
+\i (00:23:06) zoom out 1 
+\i (00:23:06) setwindow pcb
+\i (00:23:06) zoom out 275.8070 175.9526
+\i (00:23:06) trapsize 3618
+\i (00:23:06) zoom out 1 
+\i (00:23:06) setwindow pcb
+\i (00:23:06) zoom out 275.8071 175.9525
+\i (00:23:06) trapsize 7235
+\i (00:23:06) zoom out 1 
+\i (00:23:06) setwindow pcb
+\i (00:23:06) zoom out 275.8071 175.9525
+\i (00:23:06) trapsize 14471
+\i (00:23:06) zoom out 1 
+\i (00:23:06) setwindow pcb
+\i (00:23:06) zoom out 275.8070 175.9526
+\i (00:23:06) trapsize 28941
+\i (00:23:07) zoom in 1 
+\i (00:23:07) setwindow pcb
+\i (00:23:07) zoom in 420.2236 184.0649
+\i (00:23:07) trapsize 14471
+\i (00:23:07) zoom in 1 
+\i (00:23:07) setwindow pcb
+\i (00:23:07) zoom in 299.2672 184.0649
+\i (00:23:07) trapsize 7235
+\i (00:23:08) zoom out 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom out 304.1872 185.5120
+\i (00:23:08) trapsize 14471
+\i (00:23:08) zoom out 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom out 304.7659 185.5119
+\i (00:23:08) trapsize 28941
+\i (00:23:08) zoom out 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom out 441.0611 189.8531
+\i (00:23:08) trapsize 28941
+\i (00:23:08) zoom in 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom in 465.9504 191.5895
+\i (00:23:08) trapsize 14471
+\i (00:23:09) zoom in 1 
+\i (00:23:09) setwindow pcb
+\i (00:23:09) zoom in 503.0119 176.8296
+\i (00:23:09) trapsize 7235
+\i (00:25:30) setwindow form.plc_manual
+\i (00:25:30) FORM plc_manual cancel  
+\i (00:25:30) setwindow pcb
+\i (00:25:30) placementedit 
+\i (00:25:31) zoom in 1 
+\i (00:25:31) setwindow pcb
+\i (00:25:31) zoom in 466.9804 208.9542
+\i (00:25:31) trapsize 3618
+\i (00:25:31) zoom in 1 
+\i (00:25:31) setwindow pcb
+\i (00:25:31) zoom in 466.9805 208.9542
+\i (00:25:31) trapsize 1809
+\i (00:25:31) zoom in 1 
+\i (00:25:31) setwindow pcb
+\i (00:25:31) zoom in 466.9805 208.9542
+\i (00:25:31) trapsize 904
+\i (00:25:31) zoom out 1 
+\i (00:25:31) setwindow pcb
+\i (00:25:31) zoom out 466.9805 208.9543
+\i (00:25:31) trapsize 1809
+\i (00:25:32) zoom out 1 
+\i (00:25:32) setwindow pcb
+\i (00:25:32) zoom out 466.9804 208.9543
+\i (00:25:32) trapsize 3618
+\i (00:25:32) zoom out 1 
+\i (00:25:32) setwindow pcb
+\i (00:25:32) zoom out 466.9805 208.9542
+\i (00:25:32) trapsize 7235
+\i (00:25:32) zoom out 1 
+\i (00:25:32) setwindow pcb
+\i (00:25:32) zoom out 466.9805 208.9542
+\i (00:25:32) trapsize 14471
+\i (00:25:33) zoom in 1 
+\i (00:25:33) setwindow pcb
+\i (00:25:33) zoom in 480.4377 250.0507
+\i (00:25:33) trapsize 7235
+\i (00:25:34) exit 
+\e (00:25:34) Do you want to save the changes you made to FUENTE BOOST.brd?
+\i (00:25:35) fillin no 
+\t (00:25:35)     Journal end - Fri Jun 12 12:01:32 2020
